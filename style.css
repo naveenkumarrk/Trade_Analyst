@@ -19,12 +19,14 @@ body{
 nav{
     margin-top: 0;
     display: flex;
-    padding: 0 6%;
-    padding-top: 2%;
+    padding: 10px 6%;
     justify-content: space-between;
     align-items: center;
     z-index: 10;
-
+    position: fixed;
+    top: 0;
+    width: 90vw;
+    background-color: white;
 }
 
 nav img {

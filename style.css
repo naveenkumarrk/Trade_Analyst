@@ -260,7 +260,7 @@ nav .fa{
 }
 
 .course-page h1{
-    margin-top: 2%;
+    margin-top: 80px;
     font-size: 84px;
     font-weight: 900;
 }
@@ -1350,7 +1350,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog-content{
     width: 80%;
     margin: auto;
-    padding: 60px 0;
+    padding-bottom: 60px;
     display:flex;
     flex-direction:row;
 }
@@ -1420,6 +1420,7 @@ justify-content: ce;
 .blog-h1{
     font-size:84px;
     font-weight:900;
+    margin-top: 80px;
 }
 .blog-services{
     padding:60px;
@@ -1476,6 +1477,7 @@ margin: 10PX 0 ;
     }
     .blog-h1{
         font-size:30px;
+        margin-top: 30px;
     }
     .blog-right img{
         height:180px;
@@ -1920,6 +1922,7 @@ html{
  .tradingview-widget-container{
     height: 38px !important; 
     top: 40% ;
+    padding-top: 80px;
  }
 
  .graph .tradingview-widget-container{
